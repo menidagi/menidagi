@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science using python
 - 🌱 I’m currently learning computer science in post graduate diploma program
 - 💞️ I’m looking to collaborate on data mining forecasting student enrollemnt, predicting  education expinditure, ... 
-- 📫 How to reach me ...
+- 📫 How to reach me  menadagi@gmail.com
 
 <!---
 menidagi/menidagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
